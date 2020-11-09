@@ -1,0 +1,22 @@
+body{
+    background-image: url(
+        "https://i.pinimg.com/originals/9c/94/54/9c945416726b1db67f3ae9cb47507557.jpg"
+  );  
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  img{
+    width: 20%;
+    height: 250px;
+    position: relative;
+    left: 540px;
+  }
+  h1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+      ;
+      text-align: center;
+  }
+  h2{text-align: center;
+  }
+  p{text-align: center;
+  font-size:24px;}
+  h4{text-align: center;}
